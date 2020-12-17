@@ -1,6 +1,5 @@
 import cv2
 import numpy as np 
-import imutils as im
 
 cap = cv2.VideoCapture(0)
 kernel = np.ones((7,7),np.uint8)
