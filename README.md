@@ -10,3 +10,12 @@ opencv-python  ,    numpy
 
 # Examples
 
+![](https://github.com/Moeed1mdnzh/Document-scanner/blob/First_branch/examples/example1.jpg)
+![](https://github.com/Moeed1mdnzh/Document-scanner/blob/First_branch/examples/example2.jpg)
+
+# Results
+
+![](https://github.com/Moeed1mdnzh/Document-scanner/blob/First_branch/examples/result1.jpg)
+![](https://github.com/Moeed1mdnzh/Document-scanner/blob/First_branch/examples/result2.jpg)
+
+
