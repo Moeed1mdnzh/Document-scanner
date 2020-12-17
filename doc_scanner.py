@@ -5,7 +5,7 @@ import imutils as im
 cap = cv2.VideoCapture(0)
 kernel = np.ones((7,7),np.uint8)
 points = []
-
+paper = None
 
 def persp(points):
 	global img
